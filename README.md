@@ -26,6 +26,8 @@ ZTE Axon M  (Z-01K)
 
 ZTE Axon M (Z999)
 
+ZTE Axon Max (c2016)
+
 ZTE Axon Mini (B2017G)
 
 ZTE Blade A3 (A3)
@@ -33,6 +35,8 @@ ZTE Blade A3 (A3)
 ZTE Blade A4 (A0722)
 
 ZTE Blade A6 (A0605)
+
+ZTE Blade A6 (A0620)
 
 ZTE Blade A6 Lite (A0622)
 
@@ -58,7 +62,13 @@ ZTE Blade V7 (V770)
 
 ZTE Blade V8 (V0840)
 
+ZTE Blade V8 Pro (Z978)
+
+ZTE Blade V8Q (V0840)
+
 ZTE Blade V9 (V9)
+
+ZTE Blade V9 Vita (BLADEV9Vita)
 
 ZTE Blade Vantage (Z839)
 
@@ -71,6 +81,8 @@ ZTE Blade X (Z965)
 ZTE Blade Z Max (Z982)
 
 ZTE Compel (Z830)
+
+ZTE CYMBAL (Z2301/Z230)
 
 ZTE Fanfare (Z792)
 
@@ -100,6 +112,8 @@ ZTE Imperial MAX (Z963u)
 
 ZTE Jasper LTE (Z718TL)
 
+ZTE Mamorino4 (ZTF32)
+
 ZTE Maven (Z812)
 
 ZTE Maven 2 (Z831)
@@ -128,7 +142,13 @@ ZTE Quartz Watch (ZW10)
 
 ZTE Quest Plus (Z3001S)
 
+ZTE Softbank Kids Phone (701ZT)
+
 ZTE Sonata 2 (Z755)
+
+ZTE Sonata 3 (Z832)
+
+ZTE Speed (N9130)
 
 ZTE Spro 2 Projector (MF97B)
 
@@ -136,11 +156,21 @@ ZTE Tempo X (N9137)
 
 ZTE Trek 2 (k88)
 
+ZTE UNKNOWN CHINESE (v890)
+
+ZTE Visible R2 (Z5151V)
+
 ZTE Vodafone VFD 51X (vfd51x)
 
 ZTE Vodafone VFD 82X (vfd82x)
 
 ZTE Warp 7 (N9519)
+
+ZTE Warp Elite (N9518)
+
+ZTE Warp Sync (N9515)
+
+ZTE Wireless Home Phone (WF723)
 
 ZTE Z667 AT&T GoPhone (Z667)
 
@@ -149,6 +179,10 @@ ZTE Z998 AT&T GoPhone (Z998)
 ZTE ZFive2 (Z836f)
 
 ZTE ZFIVE G LTE (Z557BL)
+
+ZTE ZMAX (Z970)
+
+ZTE ZMAX 2 (Z955A)
 
 ZTE ZMAX 2 (Z958)
 

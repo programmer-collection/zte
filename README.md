@@ -58,6 +58,8 @@ ZTE Blade S7 (T920)
 
 ZTE Blade Spark (Z971)
 
+ZTE Blade T2 (Z559DL)
+
 ZTE Blade V7 (V770)
 
 ZTE Blade V8 (V0840)

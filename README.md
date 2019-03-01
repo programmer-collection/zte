@@ -172,7 +172,11 @@ ZTE Warp Elite (N9518)
 
 ZTE Warp Sync (N9515)
 
+ZTE Wireless Home Phone (WF722)
+
 ZTE Wireless Home Phone (WF723)
+
+ZTE Wireless Home Phone (WF723S)
 
 ZTE Z667 AT&T GoPhone (Z667)
 

@@ -1,5 +1,5 @@
 # Device Info
 
-ZTE Axon Mini
+ZTE Axon 7 Mini
 
 Model Number: B2017G

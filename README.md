@@ -124,6 +124,8 @@ ZTE Maven 3 (Z835)
 
 ZTE MAX XL (N9560)
 
+ZTE Nubia Z7 Max (NX505J)
+
 ZTE N818S QLink (N818S)
 
 ZTE Optus X Spirit 2 (Z5031O)

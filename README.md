@@ -74,8 +74,6 @@ ZTE Blade V9 Vita (BLADEV9Vita)
 
 ZTE Blade Vantage (Z839)
 
-ZTE Blade Vantage (Z839)
-
 ZTE Blade V Ultra (VUltra)
 
 ZTE Blade X (Z965)
@@ -131,6 +129,8 @@ ZTE N818S QLink (N818S)
 ZTE Optus X Spirit 2 (Z5031O)
 
 ZTE Orange Neva 80 (OrangeNeva80)
+
+ZTE Orange Neva jet (Neva_jet)
 
 ZTE Overture 2 (Z813)
 

@@ -48,6 +48,8 @@ ZTE Blade A321 (A321)
 
 ZTE Blade A330 (A330)
 
+ZTE Blade A460 (A460)
+
 ZTE Blade A521 (A521)
 
 ZTE Blade Force (N9517)
@@ -87,6 +89,8 @@ ZTE CYMBAL (Z2301/Z230)
 ZTE Fanfare (Z792)
 
 ZTE Fanfare 3 (Z852)
+
+ZTE Gizmo Watch (ZW20)
 
 ZTE Grand X (Z777)
 

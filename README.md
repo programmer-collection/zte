@@ -86,6 +86,8 @@ ZTE Compel (Z830)
 
 ZTE CYMBAL (Z2301/Z230)
 
+ZTE CYMBAL LTE (Z233V)
+
 ZTE Fanfare (Z792)
 
 ZTE Fanfare 3 (Z852)
